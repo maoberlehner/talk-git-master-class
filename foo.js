@@ -1,3 +1,3 @@
 function justFoo() {
-  return 'foo';
+  return 'foo foo';
 }

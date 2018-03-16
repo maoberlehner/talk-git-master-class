@@ -3,7 +3,7 @@ function bazBaz() {
 }
 
 function moreBaz() {
-  return 'baz BaZ baz Baz';
+  return 'baz BaZ Baz';
 }
 
 function allTheBaz(arrayOfBaz) {

@@ -1,15 +1,15 @@
 function bar() {
-  return 'bar';
+  return 'bar bar';
 }
 
 function multiBar() {
   const barArray = [
-    'bar',
+    'baR',
     'Bar',
     'bAr',
     'baR',
     'BAR',
   ];
 
-  return barArray.map(bar => bar.toLowerCase());
+  return barArray.map(x => x.toLowerCase());
 }

@@ -9,6 +9,7 @@ You can find the examples I've used in my talk in the different branches of this
 1. [Aliases](https://github.com/maoberlehner/talk-git-master-class/tree/aliases)
 2. [Tips & Tricks](https://github.com/maoberlehner/talk-git-master-class/tree/tips-and-tricks)
 3. [Temporary WIP commits](https://github.com/maoberlehner/talk-git-master-class/tree/temporary-wip-commits)
+4. [Changing history](https://github.com/maoberlehner/talk-git-master-class/tree/changing-history)
 
 ## About
 

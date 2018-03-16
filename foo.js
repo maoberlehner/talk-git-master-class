@@ -1,3 +1,3 @@
-function justFoo() {
-  return 'foo foo';
+function foo() {
+  return 'foo';
 }

@@ -1,0 +1,3 @@
+function andAlsoQux() {
+  return 'qux';
+}
